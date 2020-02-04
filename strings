@@ -1,0 +1,15 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class BasicsForJava{
+  public static void main(String[] args){
+  ArrayList<String> brand = new ArrayList<String>();
+  brand.add("Asus");
+  brand.add("Apple");
+  brand.add("HP");
+  
+  System.out.println(brand);
+    
+  
+  }
+}
